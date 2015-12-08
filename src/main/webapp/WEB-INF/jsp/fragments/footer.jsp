@@ -1,7 +1,9 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
 
 <p>&nbsp;</p>
-<spring:url value="/resources/images/banner-accenture.jpg" var="banner"/> 
+<!-- spring:url value="/resources/images/banner-accenture.jpg" var="banner"/-->
+<spring:url value="http://startupeuropepartnership.eu/wp-content/uploads/2015/05/banner-web-open-talent-register-eng.png" var="banner"/>
+ 
 <img src="${banner}"/>
 
 <table class="footer" width="640px">

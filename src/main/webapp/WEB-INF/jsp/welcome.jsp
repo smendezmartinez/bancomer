@@ -19,7 +19,7 @@
 
 
     
-    <img style="padding-left:120px;" src="http://www.machinetomachinemagazine.com/wp-content/uploads/2015/09/ACCENTURE.gif" alt="testing" >  
+    <img style="padding-left:230px;" src="http://www.machinetomachinemagazine.com/wp-content/uploads/2015/09/ACCENTURE.gif" alt="testing" >  
 
 
 	
