@@ -19,7 +19,7 @@
 
 
     
-    <img style="padding-left:230px;" src="http://www.machinetomachinemagazine.com/wp-content/uploads/2015/09/ACCENTURE.gif" alt="testing" >  
+    <img style="padding-left:160px;" src="https://www.bbvaassetmanagement.com/am/tlwgbinmxme/micros/img/fondos_inversion.png" alt="testing" >  
 
 
 	

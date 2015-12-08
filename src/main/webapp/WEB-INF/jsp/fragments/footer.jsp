@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 <!-- spring:url value="/resources/images/banner-accenture.jpg" var="banner"/-->
-<spring:url value="http://startupeuropepartnership.eu/wp-content/uploads/2015/05/banner-web-open-talent-register-eng.png" var="banner"/>
+<spring:url value="/resources/images/bbva_footer.png" var="banner"/>
  
 <img src="${banner}"/>
 
