@@ -4,7 +4,7 @@
 
 <!-- spring:url value="/resources/images/header.png" var="banner"/ --> <!-- original -->
 <!-- spring:url value="/resources/images/accenture6.jpg" var="banner"/ -->
-<spring:url value="/resources/images/logo_bbva_old.jpg" var="banner"/> 
+<spring:url value="/resources/images/logo_bbva.jpg" var="banner"/> 
 <img src="${banner}"/>
  
 

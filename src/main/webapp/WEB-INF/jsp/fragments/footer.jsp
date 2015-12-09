@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 <!-- spring:url value="/resources/images/banner-accenture.jpg" var="banner"/-->
-<spring:url value="/resources/images/bbva_footer.png" var="banner"/>
+<spring:url value="http://bancadigital.bancomer.com/solucion-personal/m/public/img/logo.png" var="banner"/>
  
 <img src="${banner}"/>
 
